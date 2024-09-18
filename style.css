@@ -183,7 +183,7 @@ main {
     justify-content: center;
     align-items: center;
     width: 80vw;
-    height: 80vh;
+    height: 78vh;
     background: none;
     gap: 0rem; /* Space between sections */
   }
@@ -219,8 +219,8 @@ main {
     opacity: 0.8;
     border-radius: 9px;
     color: #fff;
-    width: 45%;
-    padding: 1rem;
+    width: 40%;
+    padding: 0.5rem;
     text-align: center;
     transition: all 0.75s;
   }
@@ -238,7 +238,7 @@ main {
   }
 
   .score {
-    margin-bottom: 2rem;
+    margin-bottom: -1rem;
     font-size: 8rem;
     color: #fff;
   }
@@ -253,7 +253,7 @@ main {
 
   .dice {
     height: 5rem;
-    margin: 17.5rem 0;
+    margin: 10rem 0;
   }
 
   .btn {
@@ -287,7 +287,7 @@ main {
   .btn--roll {
     padding: 0;
     text-align: center;
-    margin-top: 43.2rem;
+    margin-top: 27.4rem;
     color: #444;
     background: none;
     border: none;
@@ -307,7 +307,7 @@ main {
   .btn--hold {
     padding: 0;
     text-align: center;
-    margin-top: 40rem;
+    margin-top: 24.3rem;
     color: #444;
     background: none;
     border: none;
